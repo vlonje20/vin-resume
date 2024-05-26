@@ -6,7 +6,7 @@ Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
 Section Links:<br>
-[objects](#Docker Objects:)
+[more on objects](#Docker Objects)
 
 Portfolio:
 - app:
@@ -120,7 +120,7 @@ Docker Architecture and Components:
   - When you use the docker push command, Docker pushes your image to your configured registry.    
 
 
-## Docker Objects: {#section-id}
+## Docker Objects {#Docker Objects}
 - When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. 
 - This section is a brief overview of some of those objects.
 
