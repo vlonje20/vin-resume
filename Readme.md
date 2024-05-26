@@ -5,7 +5,7 @@ Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-Section Links:
+Section Links:<br>
 [objects](#Docker Objects:)
 
 Portfolio:
@@ -120,7 +120,7 @@ Docker Architecture and Components:
   - When you use the docker push command, Docker pushes your image to your configured registry.    
 
 
-## Docker Objects:
+## Docker Objects: {#section-id}
 - When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. 
 - This section is a brief overview of some of those objects.
 
