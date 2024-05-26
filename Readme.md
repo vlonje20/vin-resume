@@ -28,3 +28,11 @@ copy me
 
 ##
     copy me 
+
+Headers:
+# This is a sample 
+## This is a sample
+### This is a sample
+#### This is a sample
+##### This is a sample
+###### This is a sample
