@@ -120,7 +120,8 @@ Docker Architecture and Components:
   - When you use the docker push command, Docker pushes your image to your configured registry.    
 
 
-## Docker Objects {#Objects}
+## Docker Objects 
+{#Objects}
 - When you use Docker, you are creating and using images, containers, networks, volumes, plugins, and other objects. 
 - This section is a brief overview of some of those objects.
 
